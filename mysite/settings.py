@@ -26,7 +26,7 @@ SECRET_KEY = 'y#qt1$lx^yk%jb=d&))un&_m4)knx9287ln77cbnb_1!7xvysc'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http://django-test-sample-site.40.114.46.24.nip.io'
+    'django-test-sample-site.40.114.46.24.nip.io'
 ]
 
 
