@@ -1,4 +1,4 @@
-certifi==2019.6.16
+# certifi==2019.6.16
 Django==2.0.13
-pytz==2019.1
-wincertstore==0.2
+# pytz==2019.1
+# wincertstore==0.2
